@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shyser&hide_title=true&show_icons=true&icon_color=ff6690&text_color=666&bg_color=fff" />
+
 ### Hi there 👋
 
 <!--
